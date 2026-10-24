@@ -18,3 +18,4 @@ pycydemo/version.py
 
 #PyCharm
 .idea
+uv.lock
